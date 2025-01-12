@@ -1,0 +1,5 @@
+export * from "./Home"
+export * from "./Blog"
+export * from "./Singlepost"
+export * from "./Pages"
+export * from "./Contact"

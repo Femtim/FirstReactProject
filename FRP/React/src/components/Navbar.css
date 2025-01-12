@@ -1,0 +1,23 @@
+
+nav ul {
+    display:none;
+    flex-direction: column;
+    width: 50%;
+    margin-bottom: 0.2rem;
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* nav a:hover {
+    color: blue;
+} */
+
+nav ul.open {
+    display: flex;
+    background:grey;
+    width: 100%;
+    padding: 4px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
